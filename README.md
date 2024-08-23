@@ -1,2 +1,2 @@
 # Pattern-Recognition
-Poposed project
+Poposed project for the pattern recognition task
